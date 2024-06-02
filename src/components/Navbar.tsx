@@ -57,7 +57,7 @@ export default function Navbar({ className }: { className?: string }) {
                   </div>
                 )}
               </div>
-              <li><Link className="hover:text-gray-500" href="#">Pricing</Link></li>
+              {/* <li><Link className="hover:text-gray-500" href="#">Pricing</Link></li> */}
             </ul>
           </div>
           <div className="flex items-center gap-6">
