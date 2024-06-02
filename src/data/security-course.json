@@ -1,0 +1,104 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Advanced Threat Detection",
+      "slug": "advanced-threat-detection",
+      "description": "Cutting-edge technology detects and neutralizes security threats in real-time.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/cardImage/threat.jpg"
+    },
+    {
+      "id": 2,
+      "title": "24/7 Surveillance",
+      "slug": "24/7-surveillance",
+      "description": "Round-the-clock monitoring ensures constant vigilance for maximum security.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Access Control Solutions",
+      "slug": "access-control-solutions",
+      "description": "Customized access control systems for secure entry management and protection.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/cardImage/access.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Security Consultation",
+      "slug": "security-consultation",
+      "description": "Expert advice tailored to your needs for optimal security solutions.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/drumming.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Emergency Response",
+      "slug": "emergency-esponse",
+      "description": "Swift and effective response strategies to mitigate security incidents.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Surveillance Systems Integration",
+      "slug": "surveillance-systems-integration",
+      "description": "Seamless integration of surveillance systems for comprehensive security coverage and streamlined management.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/cardImage/integration.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Intrusion Detection",
+      "slug": "intrusion-detection",
+      "description": "Advanced sensors and analytics to detect and respond to unauthorized access attempts in real-time.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/song-writing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Fire and Life Safety",
+      "slug": "fire-and-life-safety",
+      "description": "Comprehensive fire detection and life safety solutions to protect people and property.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/cardImage/fire.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Services",
+      "slug": "cybersecurity-services",
+      "description": "Robust cybersecurity measures to safeguard digital assets and prevent data breaches.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/classical-music.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Physical Security Assessments",
+      "slug": "physical-security-assessments",
+      "description": "Thorough assessments to identify vulnerabilities and strengthen physical security measures.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/cardImage/physical.jpg"
+    }
+  ]
+}
