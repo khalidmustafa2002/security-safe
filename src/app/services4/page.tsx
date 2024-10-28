@@ -72,7 +72,7 @@ export default function page() {
             <div className="flex flex-wrap -m-4">
               <div className="p-4 lg:w-1/2">
                 <div className="h-full bg-gray-700 p-8 rounded">
-                  <p className="leading-relaxed mb-6">"Their cleaning staff are punctual, professional, and detail-oriented. Our office has never looked better!"</p>
+                  <p className="leading-relaxed mb-6">&quot;Their cleaning staff are punctual, professional, and detail-oriented. Our office has never looked better!&quot;</p>
                   <div className="inline-flex items-center">
                     <span className="font-medium title-font">- Alex R.</span>
                   </div>
@@ -80,7 +80,7 @@ export default function page() {
               </div>
               <div className="p-4 lg:w-1/2">
                 <div className="h-full bg-gray-700 p-8 rounded">
-                  <p className="leading-relaxed mb-6">"I highly recommend their services for residential cleaning. They did a fantastic job on my home!"</p>
+                  <p className="leading-relaxed mb-6">&quot;I highly recommend their services for residential cleaning. They did a fantastic job on my home!&quot;</p>
                   <div className="inline-flex items-center">
                     <span className="font-medium title-font">- Maria P.</span>
                   </div>

@@ -62,7 +62,7 @@ export default function page() {
               <div className="p-4 lg:w-1/3">
                 <div className="h-full bg-gray-100 bg-opacity-75 px-8 pt-8 pb-12 rounded-lg overflow-hidden text-center relative">
                   <h2 className="text-lg font-medium text-gray-900 title-font mb-2">Reliable Technology</h2>
-                  <p className="leading-relaxed mb-4">Using the latest security tech ensures our clients' safety and peace of mind.</p>
+                  <p className="leading-relaxed mb-4">Using the latest security tech ensures our clients&apos; safety and peace of mind.</p>
                 </div>
               </div>
               <div className="p-4 lg:w-1/3">
@@ -82,7 +82,7 @@ export default function page() {
             <div className="flex flex-wrap -m-4">
               <div className="p-4 lg:w-1/2">
                 <div className="h-full bg-gray-100 p-8 rounded">
-                  <p className="leading-relaxed mb-6">"The team was incredibly professional and provided top-notch security for our corporate event. We felt safe and protected throughout."</p>
+                  <p className="leading-relaxed mb-6">&quot;The team was incredibly professional and provided top-notch security for our corporate event. We felt safe and protected throughout.&quot;</p>
                   <div className="inline-flex items-center">
                     <span className="text-gray-900 font-medium title-font">- Sarah M.</span>
                   </div>
@@ -90,7 +90,7 @@ export default function page() {
               </div>
               <div className="p-4 lg:w-1/2">
                 <div className="h-full bg-gray-100 p-8 rounded">
-                  <p className="leading-relaxed mb-6">"Amazing service! They responded quickly to our security needs and were thorough in their approach. Highly recommend!"</p>
+                  <p className="leading-relaxed mb-6">&quot;Amazing service! They responded quickly to our security needs and were thorough in their approach. Highly recommend!&quot;</p>
                   <div className="inline-flex items-center">
                     <span className="text-gray-900 font-medium title-font">- Ahmed R.</span>
                   </div>
