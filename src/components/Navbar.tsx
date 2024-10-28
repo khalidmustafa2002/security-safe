@@ -54,10 +54,10 @@ export default function Navbar({ className }: { className?: string }) {
                     <div className="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu" aria-expanded="true">
                      <Link href="/services1" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Security Guard</Link>
                        <Link href="/services2" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Personal Guard</Link>
-                       <Link href="/services3" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Event Guard</Link>
+                       {/* <Link href="/services3" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Event Guard</Link> */}
                        <Link href="/services4" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Cleaning Staff</Link>
-                      <Link href="/services5" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">CCTV Operator</Link>
-                      <Link href="/services6" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">CCTV Installation</Link>
+                      {/* <Link href="/services5" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">CCTV Operator</Link> */}
+                      {/* <Link href="/services6" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">CCTV Installation</Link> */}
                     </div>
                   </div>
                 )}
